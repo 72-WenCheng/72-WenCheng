@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=72-WenCheng&show_icons=true&theme=transparent)
-</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=72-WenCheng&layout=compact&theme=tokyonight)
 <br/>
 <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" alt="Example 1" style="max-width: 100%;">
