@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=72-WenCheng&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/72-WenCheng/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=72-WenCheng&layout=compact&theme=tokyonight)
-![](https://img.shields.io/badge/java-1.0-brightgreen)
-![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 
 
