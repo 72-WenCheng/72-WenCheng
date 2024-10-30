@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=72-WenCheng&show_icons=true&theme=transparent)
+</br>
+
 ![Visitor Count](https://profile-counter.glitch.me/72-WenCheng/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=72-WenCheng&layout=compact&theme=tokyonight)
 
