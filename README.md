@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <br/>
 <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" alt="Example 1" style="max-width: 100%;">
 <br/>
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)
-<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 <br/>
 ![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan)
